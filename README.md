@@ -1,7 +1,7 @@
 # Jogo da Memória 1.0
 
 Projeto em React + Typescript
-JOGO DE MEMÓRIA.
+JOGO DA MEMÓRIA.
 
 ## Instalação
 - `npm install`
